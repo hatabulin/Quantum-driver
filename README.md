@@ -1,6 +1,6 @@
 # Quantum-driver
 
-stm32 project for Quantbest acupuncture dashboard for Windows 10.
+Laser led driver project for Quantbest acupuncture dashboard for Windows 10.
 
-Driver communicate with PC via serial port. In this version use UART interface for develop mode....
-
+Driver based on stm32f103c8 microcontroller.
+Communicate with PC via serial interface. In this version use  UART interface line for develop mode....
