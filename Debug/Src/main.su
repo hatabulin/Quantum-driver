@@ -1,0 +1,12 @@
+main.c:94:6:StartTimers	8	static
+main.c:110:6:setPwmChannel	0	static
+main.c:127:6:setPwmChannelFromPwmValues	0	static
+main.c:140:10:hexToInt	0	static
+main.c:248:6:SystemClock_Config	72	static
+main.c:515:9:processUartMessage	40	static
+main.c:551:6:SendMessage	8	static
+main.c:547:6:OutputHelpString	0	static
+main.c:481:6:UartCommandProcessor	72	static
+main.c:159:5:main	80	static
+main.c:560:6:HAL_UART_RxCpltCallback	16	static
+main.c:613:6:_Error_Handler	0	static
